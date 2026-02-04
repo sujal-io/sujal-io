@@ -1,5 +1,6 @@
 # 💫 About Me:
-Full-stack developer rebuilding and improving MERN stack projects.<br>Focused on React fundamentals, clean architecture, and well-designed backend APIs.<br>Learning through hands-on development, refactoring, and real-world iteration.
+Full-stack developer focused on building and refining MERN stack projects.
+Strong emphasis on React fundamentals, clean architecture, and scalable backend APIs.
 
 
 ## 🌐 Socials:
