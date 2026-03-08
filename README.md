@@ -1,6 +1,8 @@
 # 💫 About Me:
-Full-stack developer focused on building and refining MERN stack projects.
-Strong emphasis on React fundamentals, clean architecture, and scalable backend APIs.
+Full-stack developer specializing in the MERN stack (MongoDB, Express.js, React, Node.js).
+I focus on building clean, scalable web applications with strong React fundamentals and well-structured backend APIs.
+
+I enjoy designing maintainable architectures, writing readable code, and continuously improving projects through better performance, structure, and user experience.
 
 
 ## 🌐 Socials:
