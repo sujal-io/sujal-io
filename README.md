@@ -1,87 +1,89 @@
-<h1 align="center">Hi 👋, I'm Sujal</h1>
+<h1 align="center">
+  <img height="40px" src="https://img.shields.io/badge/-Hey%2C%20I'm%20Sujal%20%F0%9F%91%8B-1a1a2e?&style=for-the-badge" />
+</h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sujal-io&label=Profile%20Views&color=6366f1&style=flat" />
-  <img src="https://badges.pufler.dev/commits/monthly/sujal-io?color=6366f1" />
-</p>
+<div align="center">
+  <img height="40px" src="https://img.shields.io/badge/-Full--Stack-6366f1?&style=for-the-badge" />
+  <img height="40px" src="https://img.shields.io/badge/-MERN-22d3ee?&style=for-the-badge" />
+  <img height="40px" src="https://img.shields.io/badge/-GenAI%20Curious-1a1a2e?&style=for-the-badge" />
 
-<h3 align="center">
-🚀 Full Stack Developer | MERN Stack | GenAI
-</h3>
+  <br><br>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=Final-year+CS+Student%2C+ADGIPS;DSA+Enthusiast;Learning+RAG%2C+Embeddings+%26+LLM+Tooling;Open+to+SDE+%2F+Full+Stack+Roles"/>
-</p>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&color=6366f1&size=26&center=true&vCenter=true&width=650&lines=Final-year+CS+Student%2C+ADGIPS;Building+MERN+Products;Learning+RAG+%26+Embeddings;Open+to+SDE+%2F+Full+Stack+Roles" alt="Headline" />
 
-<table>
-<tr>
-<td width="70%" valign="top">
+  <br>
 
-### 💻 Tech Stack
-
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-</td>
-<td width="30%" align="center" valign="middle">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220"/>
-</td>
-</tr>
-</table>
-
-## 🌐 Full Stack Development
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+  <a href="https://www.linkedin.com/in/sujal-bhardwaj-8332b92b1/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/sujal-io/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+  <a href="mailto:bhardwaj0601@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</div>
 
 <br>
 
-## 🚀 Featured Projects
+```java
+public class Developer {
+    String name = "Sujal Bhardwaj";
+    String role = "Full-Stack Developer (MERN)";
+    String learning = "GenAI — embeddings, RAG, LLM tooling";
+    String status = "Final-year CS, ADGIPS | graduating 2027";
 
-**🔧 Bugsy** — Real-time MERN bug tracker with dual auth (JWT + Google OAuth), role-based workflows, Socket.IO live updates, and an LLM-powered triage feature.
+    void sayHi() {
+        System.out.println("Thanks for stopping by — check out what I'm building below.");
+    }
 
-**📊 Calibrate** — Resume-JD matcher using structured extraction (Gemini) and embedding-based retrieval for skill matching, seniority calibration, and bullet rewriting.
+    public static void main(String[] args) {
+        Developer me = new Developer();
+        me.sayHi();
+    }
+}
+```
+
+<h1 align="center">
+  <img height="35px" src="https://img.shields.io/badge/-My%20Tech%20Stack-1a1a2e?&style=for-the-badge" />
+</h1>
+
+<div align="center">
+
+<h4>Languages</h4>
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+<h4>Frontend</h4>
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+<h4>Backend</h4>
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+
+<h4>Database</h4>
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+<h4>Deploy & Tools</h4>
+
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
+
+<h1 align="center">
+  <img height="35px" src="https://img.shields.io/badge/-What%20I've%20Built-1a1a2e?&style=for-the-badge" />
+</h1>
+
+- **Calibrate** — resume–JD matcher with Gemini-based structured extraction and embedding retrieval (RAG) for skill matching + seniority calibration
+- **Bugsy** — real-time MERN bug tracker with dual auth, role-based workflows, and an LLM triage layer
 
 <br>
 
-## 🏆 LeetCode Stats
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/sujal-io?theme=dark&font=Poppins" width="400"/>
-</p>
-
-## 🌐 Connect With Me
-
-<p align="center">
-<a href="https://linkedin.com/in/sujal-bhardwaj-8332b92b1">
-<img src="https://skillicons.dev/icons?i=linkedin" height="32"/>
-</a>
-<a href="https://github.com/sujal-io">
-<img src="https://skillicons.dev/icons?i=github" height="32"/>
-</a>
-<a href="https://leetcode.com/u/sujal-io/">
-<img src="https://cdn.simpleicons.org/leetcode" height="30"/>
-</a>
-<a href="mailto:bhardwaj0601@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="32"/>
-</a>
-</p>
-
-<h3 align="center">
-✨ Code • Learn • Build • Repeat ✨
-</h3>
-
+<img align="center" width="800px" alt="pixel art coding gif" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
